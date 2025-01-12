@@ -14,7 +14,11 @@
 Варианты которые принимаются к сдаче
 -    рабочий вагрантафайл
 -    скрины или логи SHOW TABLES
+### Cкрины SHOW TABLES
+![изображение](https://github.com/user-attachments/assets/f848af64-75d6-4fc9-8a56-9c0b4718f716)
+![изображение](https://github.com/user-attachments/assets/4de07514-d752-4565-b39c-66291c5d9bdf)
 
+### Ход выполнения
 Установка Percona-Server
 ```
 vagrant@master:~$ history
@@ -403,6 +407,3 @@ mysql> SELECT * FROM bookmaker;
 +----+----------------+
 5 rows in set (0.00 sec)
 ```
-![изображение](https://github.com/user-attachments/assets/f848af64-75d6-4fc9-8a56-9c0b4718f716)
-![изображение](https://github.com/user-attachments/assets/4de07514-d752-4565-b39c-66291c5d9bdf)
-
